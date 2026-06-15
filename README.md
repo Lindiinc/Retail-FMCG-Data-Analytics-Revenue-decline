@@ -32,7 +32,7 @@ all 45 stores nationwide. A brief description of the tables follows:
 • transaction_items: the line items inside each transaction
 • promotions: historical and current marketing campaigns
 
-![Further analysis of the dataset is available here]() 
+Further exploration of the dataset is available here:![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset) 
 
 
 
