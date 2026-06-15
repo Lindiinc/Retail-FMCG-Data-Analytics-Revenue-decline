@@ -29,7 +29,8 @@ all 45 stores nationwide. A brief description of the tables follows:
 
 Further exploration of the dataset is available here:![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset), using tools such as Excel. The SQL scripts can be viewed here![Investigation/sql](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Investigation.sql)
 
-
+### 🔍 Data quality issues
+Imbewu's dataset has some NULLs, minor inconsistencies, the occasional duplicates that were discovered whilst running the query profiles on SQL and during the trdata cleaning phase on Power BI. One of the key issues thay arose when cleaning the data was what would be the impact of removing the null records such as the customer_ids found in the Transaction table. Due to the relationship that exists between the transactions, customer and transactions_items table deletion of null customer-ids would have a major impact on the transactions_items table that holds the revenue data which is indirectly linked to the customers via the transactions table, see the ![ERD]
 
 
 
