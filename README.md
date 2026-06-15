@@ -41,13 +41,22 @@ The main data quality issues are documented as findings feature in the ![Executu
 The database structure follows the star schema modelling approach, the fact table is the transactions_items table, perhaps the transactions table may also be considered as a fact table. The other tables being the store, customers, promotions, products are the dimension tables. This approach organizes the data in a database in such a way that it is easy to understand and analyze. The data model can be viewed here, ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) in addition the explanation of the relationships and cardinalities that exist are documented in the ![Data Dictionary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Data_dictionary.md) 
 
 ### 🧬 SQL: Data exploration
-
+The data was explored using Databricks: SQL ![Investigation/sql](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Investigation.sql) , the purpose of this phase was to get to know the data, run profiling queries to understand what each table holds, what the data quality is like, and where the gaps are. Hypotheses were formulated to understand what could be happening in Western Cape. Each hypothesis was tested using CTEs, joins, and window functions to see if they hold true, only 4 of 6 held true.
 
 
 
 
 
 ### 📈 Power BI: Dashboard
+
+The dataset was imported into Power BI to build a meaningful dashboard that through visuals tells a story of Imbewu's operations. The dashboard consists of an overview page and 4 pages each of which are of the respective hypothesis, listed as follows:
+
+Hypothesis 1: Revenue decline in the Western Cape & provincially 6 month period - SPLY: SAMEPERIODLASTYEAR analysis
+Hypothesis 2: Loyalty programme performance in the Western Cape
+Hypothesis 3: Revenue per store format Western Cape for 6 month period - SPLY
+Hypothesis 4: Discount applied: promotion or no promotion applied
+
+One of the objectives of the dashboard was to highlight cricital data structure flaws for the COO and other key stakeholders such as Database engineers to see. These flaws were intentionally not transformed in the data cleaning phase, the overview page for example speaks to this. The aim of the page is to show the disconnect between the Promotions table and other relevant tables. Ideally, when a connection exists, by navigating through the button slicers of the Promotions visual one could see which provinces applied the promotions and which did not and also which store formats applied the promotions the most and which did not. With that kind of information one is able to improve the effectiveness of the promotions in those respective regions and stores. 
 
 
 
