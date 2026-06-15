@@ -35,17 +35,12 @@ Due to the relationship that exists between the transactions, customer and trans
 
 The main data quality issues are documented as findings feature in the ![Executuve summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Executive%20summary.docx), the summary also includes recommendations to handle these issues that prevent optimal performance of the stores.
 
-### 🛠️ What I built 
 
-### 🧱 ERD:Database structure and Data dictionary
+### 🧱 ERD: Database structure and data dictionary
 The database structure follows the star schema modelling approach, the fact table is the transactions_items table, perhaps the transactions table may also be considered as a fact table. The other tables being the store, customers, promotions, products are the dimension tables. This approach organizes the data in a database in such a way that it is easy to understand and analyze. The data model can be viewed here, ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) in addition the explanation of the relationships and cardinalities that exist are documented in the ![Data Dictionary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Data_dictionary.md) 
 
 ### 🧬 SQL: Data exploration
 The data was explored using Databricks: SQL ![Investigation/sql](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Investigation.sql) , the purpose of this phase was to get to know the data, run profiling queries to understand what each table holds, what the data quality is like, and where the gaps are. Hypotheses were formulated to understand what could be happening in Western Cape. Each hypothesis was tested using CTEs, joins, and window functions to see if they hold true, only 4 of 6 held true.
-
-
-
-
 
 ### 📈 Power BI: Dashboard
 
@@ -69,12 +64,8 @@ This hypothesis questions the purpose of the loyalty programme if there is any v
 The dashboard can be further explored here: ![Dashboard](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/imbewu_dashboard.pbix)
 
 
-
-
 ### 💼 Executive summary
 The ![executive summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Executive%20summary.docx), is presented as a 2 page summmary of findings and recommendations for the COO an other key stakeholders to read through. This document has key takeaways that can assist in taking action that will improve operational performance not just in the Western Cape but across all provinces. The document provides recommendations that also speak to formulating strategically sound business rules which is one of the key steps to enhance database design and ensure organizational optimization. 
-
-
 
 
 ### ✂️ Tools and skills utilised
@@ -96,10 +87,6 @@ Skills
 Running the project one can view the ![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset) via Excel, SQL tools and Power BI. The ![Dashboard](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/imbewu_dashboard.pbix) is viewed via Power BI, the dataset can imported through a connection where the database is stored, the visuals will load accordingly.
 
 
-
-
-
-
 ### 🎓 Learning path 
 As a _Junior Data Analyst_ this project taught me new skills and made me realise that **data is everywhere but how it is collected, managed, stored, governed and utilised can make or break an orgnization**. I learnt the **importance of formulating and following logical business rules** in the process of database modelling. 
 **Do your research** - resources are plentiful one must take the initiative to learn by **thoroughly researching topics** in order to understand a new subject matter and **asking questions** to oneself and others with greater expertise. Regarding a project having **defensible reasons for taking certain decisions is key**, our perspectives differ thats not the issue what matters is being able to logically defend your stance to the next party.
@@ -107,27 +94,21 @@ As a _Junior Data Analyst_ this project taught me new skills and made me realise
 Power BI is more than just building dashboards, logic must lie behind the visuals to convey a logical and plausible story. Lastly stick through it, new skills  take time to learn but with enough practise eventually one can master anything they put their mind too! 😎 ,	🎊 
 
 
-
-
-
-
-
-
-
-
-
-
 ### 🤝 References
-
-
-
-
-
-
-
+Resources used:
+* Witle Academy: Data Analytics course - lecture presentations
+* ![DAX expressions](https://dax.guide/)
+* ![SQL](https://www.sqlbi.com/articles/filter-arguments-in-calculate/)
+* ![Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets?search=messy)
+* ![SQL](https://learnsql.com/blog/year-over-year-difference-sql/)
+* [Power BI](https://www.youtube.com/watch?v=gP-AxNi6uxo&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=3)
 
 
 ### 🏆 About me
+Junior Data Analyst, pivoting into Data Analytics in the Finance and Taxation space.
+LinkedIn: 
+Email: 
+
 
 
 
