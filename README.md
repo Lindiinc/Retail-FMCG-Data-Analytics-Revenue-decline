@@ -27,7 +27,7 @@ all 45 stores nationwide. A brief description of the tables follows:
 
 ![Dataset table](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20dataset/Dataset%20table.png)
 
-Further exploration of the dataset is available here:![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset), using tools such as Excel. The SQL scripts can be viewed here: 
+Further exploration of the dataset is available here:![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset), using tools such as Excel. The SQL scripts can be viewed here![Investigation/sql](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Investigation.sql)
 
 
 
