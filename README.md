@@ -60,12 +60,13 @@ One of the objectives of the dashboard was to highlight cricital data structure 
 
 ![Overview](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Dashboard%20screenshots/Overview.png)
 
-Hypothesis 2: Loyalty programme performance in the Western Cape.\
+
+_Hypothesis 2:_ Loyalty programme performance in the Western Cape.\
 This hypothesis questions the purpose of the loyalty programme if there is any value added to the bottom line. Through the visual one can see that a higher number of tier signups to the loyalty programme does not translate into sales, why is that? in addition do customers receieve an incentive for signing up?, the Sales and Marketing department must be able to provide justifiable reasons for these programmes because organizations spend resources on developing campaigns therefore a quantifiable return on investment must be realized.
 
 ![](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Dashboard%20screenshots/Hypothesis%202.png)
 
-The dashboard can be further explored here: 
+The dashboard can be further explored here: ![Dashboard](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/imbewu_dashboard.pbix)
 
 
 
