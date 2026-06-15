@@ -72,7 +72,7 @@ The dashboard can be further explored here: ![Dashboard](https://github.com/Lind
 
 
 ### 💼 Executive summary
-
+Th ![executive summary]  
 
 
 
