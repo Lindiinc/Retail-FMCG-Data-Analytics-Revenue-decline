@@ -77,8 +77,23 @@ The ![executive summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-
 
 
 
-### ✂️ Tools and skills utilised, how to run the project
+### ✂️ Tools and skills utilised
+Tools for project development:
+* Databricks: SQL
+* Power BI Desktop
+* DAX expressions
+* Github
 
+Skills
+* Data modelling - Star schema approach
+* SQL - CTE's, joins, window functions
+* DAX - time intelligence
+* Data quality auditing 
+* Dashboard design
+* Technical writing and documentation
+* Data lifecycle management  
+
+Running the project one can view the ![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset) via Excel, SQL tools and Power BI. The ![Dashboard](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/imbewu_dashboard.pbix) is viewed via Power BI, the dataset can imported through a connection where the database is stored, the visuals will load accordingly.
 
 
 
@@ -86,6 +101,13 @@ The ![executive summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-
 
 
 ### 🎓 Learning path 
+As a _Junior Data Analyst_ this project taught me new skills and made me realise that **data is everywhere but how it is collected, managed, stored, governed and utilised can make or break an orgnization**. I learnt the **importance of formulating and following logical business rules** in the process of database modelling. 
+**Do your research** - resources are plentiful one must take the initiative to learn by **thoroughly researching topics** in order to understand a new subject matter and **asking questions** to oneself and others with greater expertise. Regarding a project having **defensible reasons for taking certain decisions is key**, our perspectives differ thats not the issue what matters is being able to logically defend your stance to the next party.
+**Explore, explore, explore your data**, the minute details can reveal the greatest insights, which the human eye can pick up with enough attention in so saying **Artificial Intelligence is great but not greater than Actual Intelligence** human intervention is necessary in the data lifecycle.
+Power BI is more than just building dashboards, logic must lie behind the visuals to convey a logical and plausible story. Lastly stick through it, new skills  take time to learn but with enough practise eventually one can master anything they put their mind too! 😎 ,	🎊 
+
+
+
 
 
 
