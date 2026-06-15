@@ -38,8 +38,8 @@ The main data quality issues are documented as findings feature in the ![Executu
 ### 🛠️ What I built 
 
 ### 🧱 ERD:Database structure and Data dictionary
-The database structure follows the star schema modelling approach, the fact table is the transactions_items table, perhaps the transactions table may also be considered as a fact table. The other tables being the store, customers, promotions, products are the dimension tables.
-The relationships and cardinalities that exist are documented in the ![Data Dictionary]() and the ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) to view the database structure.
+The database structure follows the star schema modelling approach, the fact table is the transactions_items table, perhaps the transactions table may also be considered as a fact table. The other tables being the store, customers, promotions, products are the dimension tables. This approach organizes the data in a database in such a way that it is easy to understand and analyze. The data model can be viewed here, ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) and the explanation of the relationships and cardinalities that exist are documented in the ![Data Dictionary]() can be read here
+ and the 
 
 
 
