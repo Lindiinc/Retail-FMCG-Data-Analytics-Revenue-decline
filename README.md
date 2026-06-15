@@ -12,7 +12,7 @@ End-to-end retail analytics project following a step-by-step data lifecycle - ER
 ![SQL: Data exploration](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-sql-data-exploration)\
 ![Power BI: Dashboard](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-power-bi-dashboard)\
 ![Executive summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-executive-summary)\
-![Tools and skills utilised, how to run the project]()https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8F-tools-and-skills-utilised-how-to-run-the-project\
+![Tools and skills utilised, how to run the project](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8F-tools-and-skills-utilised-how-to-run-the-project)\
 ![Learning path]([https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8F-tools-and-skills-utilised-how-to-run-the-project](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-learning-path))\
 ![References](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-references)\
 ![About me](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-about-me)
