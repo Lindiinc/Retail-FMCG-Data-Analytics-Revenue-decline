@@ -4,18 +4,18 @@ End-to-end retail analytics project following a step-by-step data lifecycle - ER
 ![Overview](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Dashboard%20screenshots/Overview.png)
 
 ## 🔑Table of contents
-![The business problem]\
-![The dataset]\
-![Data quality issues]\
-![What I built]\
-![ERD: Database structure and Data dictionary]\
-![SQL: Data exploration]\
-![Power BI: Dashboard]\
-![Executive summary]\
-![Tools and skills utilised, how to run the project]\
-![Learning path]\
-![References]\
-![About me]\
+![The business problem](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8Fthe-business-probelm)\
+![The dataset](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8Fthe-dataset)\
+![Data quality issues](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-data-quality-issues)\
+![What I built](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8F-what-i-built)\
+![ERD: Database structure and Data dictionary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-erddatabase-structure-and-data-dictionary)\
+![SQL: Data exploration](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-sql-data-exploration)\
+![Power BI: Dashboard](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-power-bi-dashboard)\
+![Executive summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-executive-summary)\
+![Tools and skills utilised, how to run the project]()https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8F-tools-and-skills-utilised-how-to-run-the-project\
+![Learning path]([https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8F-tools-and-skills-utilised-how-to-run-the-project](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-learning-path))\
+![References](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-references)\
+![About me](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#-about-me)
 
 ### ⏱️The business probelm
 Imbewu Retail is a South African retailer with a national footprint comprising of 45 stores of varying formats located in Gauteng, the Western Cape, Kwa-Zulu Natal, and the Eastern Cape. With no hard proof Head of Sales speculated that revenue is declining in the Western Cape. The task was to use the given dataset to analyse the numbers, loyalty programme trends, promotion effectiveness and extract insights that must answer the three main questions "what's happening, why, and what we should do about it". The end result expected - a meaningful Power BI dashboard that will be sent to the COO.
@@ -38,7 +38,57 @@ The main data quality issues are documented as findings feature in the ![Executu
 ### 🛠️ What I built 
 
 ### 🧱 ERD:Database structure and Data dictionary
-The database structure follows the star schema modelling approach, the fact table is the transactions_items table, perhaps the transactions table may also be considered as a fact table. The other tables being the store, customers, promotions, products are the dimension tables. This approach organizes the data in a database in such a way that it is easy to understand and analyze. The data model can be viewed here, ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) in addition the explanation of the relationships and cardinalities that exist are documented in the ![Data Dictionary]()  
+The database structure follows the star schema modelling approach, the fact table is the transactions_items table, perhaps the transactions table may also be considered as a fact table. The other tables being the store, customers, promotions, products are the dimension tables. This approach organizes the data in a database in such a way that it is easy to understand and analyze. The data model can be viewed here, ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) in addition the explanation of the relationships and cardinalities that exist are documented in the ![Data Dictionary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Data_dictionary.md) 
+
+### 🧬 SQL: Data exploration
+
+
+
+
+
+
+### 📈 Power BI: Dashboard
+
+
+
+
+
+
+### 💼 Executive summary
+
+
+
+
+
+### ✂️ Tools and skills utilised, how to run the project
+
+
+
+
+
+
+
+### 🎓 Learning path 
+
+
+
+
+
+
+
+
+
+### 🤝 References
+
+
+
+
+
+
+
+
+
+### 🏆 About me
 
 
 
