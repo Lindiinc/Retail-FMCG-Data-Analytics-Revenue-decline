@@ -72,7 +72,7 @@ The dashboard can be further explored here: ![Dashboard](https://github.com/Lind
 
 
 ### 💼 Executive summary
-Th ![executive summary]  
+The ![executive summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Executive%20summary.docx), is presented as a 2 page summmary of findings and recommendations for the COO an other key stakeholders to read through. This document has key takeaways that can assist in taking action that will improve operational performance not just in the Western Cape but across all provinces. The document provides recommendations that also speak to formulating strategically sound business rules which is one of the key steps to enhance database design and ensure organizational optimization. 
 
 
 
