@@ -51,10 +51,10 @@ The data was explored using Databricks: SQL ![Investigation/sql](https://github.
 
 The dataset was imported into Power BI to build a meaningful dashboard that through visuals tells a story of Imbewu's operations. The dashboard consists of an overview page and 4 pages each of which are of the respective hypothesis, listed as follows:
 
-Hypothesis 1: Revenue decline in the Western Cape & provincially 6 month period - SPLY: SAMEPERIODLASTYEAR analysis\
-Hypothesis 2: Loyalty programme performance in the Western Cape\
-Hypothesis 3: Revenue per store format Western Cape for 6 month period - SPLY\
-Hypothesis 4: Discount applied: promotion or no promotion applied
+**Hypothesis 1:** Revenue decline in the Western Cape & provincially 6 month period - SPLY: SAMEPERIODLASTYEAR analysis\
+**Hypothesis 2:** Loyalty programme performance in the Western Cape\
+**Hypothesis 3:** Revenue per store format Western Cape for 6 month period - SPLY\
+**Hypothesis 4:** Discount applied: promotion or no promotion applied
 
 One of the objectives of the dashboard was to highlight cricital data structure flaws for the COO and other key stakeholders such as Database engineers to see. These flaws were intentionally not transformed in the data cleaning phase, the overview page for example speaks to this. The aim of the page is to show the disconnect between the Promotions table and other relevant tables. Ideally, when a connection exists, by navigating through the button slicers of the Promotions visual one could see which provinces applied the promotions and which did not and also which store formats applied the promotions the most and which did not. With that kind of information one is able to improve the effectiveness of the promotions in those respective regions and stores.
 
@@ -65,7 +65,7 @@ This hypothesis questions the purpose of the loyalty programme if there is any v
 
 ![](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Dashboard%20screenshots/Hypothesis%202.png)
 
-
+The dashboard can be further explored here: 
 
 
 
