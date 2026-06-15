@@ -8,12 +8,11 @@ End-to-end retail analytics project following a step-by-step data lifecycle - ER
 ![The dataset]\
 ![Data quality issues]\
 ![What I built]\
-![ERD: Database structure]\
+![ERD: Database structure and Data dictionary]\
 ![SQL: Data exploration]\
 ![Power BI: Dashboard]\
-![Data dictionary]\
 ![Executive summary]\
-![Tools and skills utilised]\
+![Tools and skills utilised, how to run the project]\
 ![Learning path]\
 ![References]\
 ![About me]\
@@ -34,7 +33,13 @@ Imbewu's dataset has some NULLs, minor inconsistencies, the occasional duplicate
 One of the key issues that arose when cleaning the data was, what would be the impact of removing the null records such as the customer_ids found in the Transaction table?.
 Due to the relationship that exists between the transactions, customer and transactions_items table deletion of null customer_ids would have a major impact on the transactions_items table that holds the revenue data which is indirectly linked to the customers via the transactions table, see the ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) to view the database structure.
 
-The main data quality issues are documented in the 
+The main data quality issues are documented as findings feature in the ![Executuve summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Executive%20summary.docx), the summary also includes recommendations to handle these issues that prevent optimal performance of the stores.
+
+### 🛠️ What I built 
+
+### 🧱 ERD:Database structure and Data dictionary
+The database structure follows the star schema modelling approach, the fact table is the transactions_items table, perhaps the transactions table may also be considered as a fact table. The other tables being the store, customers, promotions, products are the dimension tables.
+The relationships and cardinalities that exist are documented in the ![Data Dictionary]() and the ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) to view the database structure.
 
 
 
