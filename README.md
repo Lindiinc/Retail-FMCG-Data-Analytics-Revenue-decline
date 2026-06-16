@@ -35,6 +35,8 @@ Due to the relationship that exists between the transactions, customer and trans
 
 The main data quality issues are documented as findings feature in the ![Executuve summary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Executive%20summary.docx), the summary also includes recommendations to handle these issues that prevent optimal performance of the stores.
 
+### What I built
+The project was based on a request to investigate declining revenue in the Western Cape stores of Imbewu Retail. Following the data lifecycle phases, with the use of various ![tools and skills](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/edit/main/README.md#%EF%B8%8F-tools-and-skills-utilised) I built a project that began with reading the project brief in order to understand the business requirements that were somewhat vague but workable. This phase was followed by ingesting the![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset) into Databricks to make use of SQL for exploring the data by run profiling queries to get an idea of its shortcomings, once this phase was completed a connection was established between Databricks and Power BI to import the dataset. The dashboard design phase revealed insights that would spur the COO and other key stakeholders into action to address the pressing matter of declining revenue. To conclude the lifecycle technical documentation was drafted, this documentation include the data dictionary as well as the Executive summary, containing findings and recommendations for the organization 
 
 ### 🧱 ERD: Database structure and data dictionary
 The database structure follows the star schema modelling approach, the fact table is the transactions_items table, perhaps the transactions table may also be considered as a fact table. The other tables being the store, customers, promotions, products are the dimension tables. This approach organizes the data in a database in such a way that it is easy to understand and analyze. The data model can be viewed here, ![ERD](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Retail%20ERD.drawio.pdf) in addition the explanation of the relationships and cardinalities that exist are documented in the ![Data Dictionary](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Data_dictionary.md) 
@@ -105,9 +107,9 @@ Resources used:
 
 
 ### 🏆 About me
-Junior Data Analyst with a background in Taxation and Supply Chain Management.
-LinkedIn: 
-![Email](mashaba.inc@gmail.com)
+Junior Data Analyst with a background in Taxation and Supply Chain Management.\
+**![LinkedIn](https://www.linkedin.com/in/lindelwamashaba)**
+**![Email](mashaba.inc@gmail.com)**
 
 
 
