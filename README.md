@@ -1,5 +1,5 @@
 # Imbewu Retail - Data Analytics
-End-to-end retail analytics project following a step-by-step data lifecycle - ERD design: database structure > SQL: data exploration > Power BI: dashboard design > Data dictionary and Executive summary. The project objective is to investigate the declining revenue in the Western Cape stores of a South African retailer operating in the FMCG industry.
+End-to-end retail analytics project following a step-by-step data lifecycle - ERD design: database modelling > SQL: data exploration > Power BI: dashboard design > Data dictionary and Executive summary. The project objective is to investigate the declining revenue in the Western Cape stores of a South African retailer operating in the FMCG industry.
 
 ![Overview](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/Imbewu%20Dashboard%20screenshots/Overview.png)
 
@@ -105,9 +105,9 @@ Resources used:
 
 
 ### 🏆 About me
-Junior Data Analyst, pivoting into Data Analytics in the Finance and Taxation space.
+Junior Data Analyst with a background in Taxation and Supply Chain Management.
 LinkedIn: 
-Email: 
+![Email](mashaba.inc@gmail.com)
 
 
 
