@@ -86,7 +86,7 @@ Skills
 * Technical writing and documentation
 * Data lifecycle management  
 
-Running the project one can view the ![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset) via Excel, SQL tools and Power BI. The ![Dashboard](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/imbewu_dashboard.pbix) is viewed via Power BI, the dataset can imported through a connection where the database is stored, the visuals will load accordingly.
+Running the project one can view the ![CSV files](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/tree/main/Imbewu%20Retail%20dataset) via Excel, SQL tools and Power BI. The ![Dashboard](https://github.com/Lindiinc/Retail-FMCG-Data-Analytics-Revenue-decline/blob/main/imbewu_dashboard.pbix) is viewed via Power BI, the dataset can be imported through a connection where the database is stored, the visuals will load accordingly.
 
 
 ### 🎓 Learning path 
